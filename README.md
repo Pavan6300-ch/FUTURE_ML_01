@@ -93,6 +93,6 @@ Deploy the model as an API for real-time forecasting.
 Automate the data pipeline with AWS SageMaker or Azure ML.
 
 👨‍💻 Author
-C Pavan Chowdhary
+Rercharla Pavan Chowdhary
 
 LinkedIn: https://www.linkedin.com/in/pavan-chowdary-764b64324/
